@@ -2,7 +2,7 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
-
+//tes 
 int main() {
     int n;
     scanf("%d", &n);
